@@ -1,0 +1,16 @@
+.Tasklist {
+  padding: 8px;
+  background: color 555px;
+  border-radius: 2px;
+}
+.Tasklist .title {
+  padding: 4px;
+  font-weight: bold;
+  background-color: rgb(85, 102, 248);
+  text-align: center;
+}
+.Tasklist .content {
+  padding: 16px 4px;
+  display: flex;
+  flex-direction: column;
+}
